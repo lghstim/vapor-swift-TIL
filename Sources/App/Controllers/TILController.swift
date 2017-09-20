@@ -32,6 +32,4 @@ final class TILController {
     try acronym.delete()
     return Response(redirect: "/til")
   }
-
-
 }
