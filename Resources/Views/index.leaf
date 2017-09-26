@@ -30,7 +30,7 @@
           <input name="short" class="u-full-width" placeholder="enter due date here" />
        </div>
        <div class="nine columns">
-          <label>Long Form</label>
+          <label>Due Date</label>
           <input name="long" class="u-full-width" placeholder="enter reminder here" />
           <input class="button-primary" type="submit" value="Save Reminder">
      </div>
