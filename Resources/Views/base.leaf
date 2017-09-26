@@ -12,7 +12,7 @@
         <div class="container">
           <div class="row">
             <div class="u-full-width">
-              <h2>TIL: Today I Learned <small>Vapor Web Service</small></h2>
+              <h2>Tim's Reminders</h2>
             </div>
           </div>
           #import("body")
